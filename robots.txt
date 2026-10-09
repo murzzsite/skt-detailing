@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /skt-detailing/blog/preview/
+
+Sitemap: https://murzzsite.github.io/skt-detailing/sitemap.xml

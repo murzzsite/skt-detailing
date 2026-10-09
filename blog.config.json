@@ -1,0 +1,39 @@
+{
+  "siteName": "СКТ Детейлинг",
+  "siteUrl": "https://murzzsite.github.io/skt-detailing",
+  "lang": "ru",
+  "repo": "murzzsite/skt-detailing",
+  "ref": "CQ9XMJ5RZ7",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Полезные статьи от СКТ Детейлинг",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Студия СКТ Детейлинг",
+    "jobTitle": "",
+    "type": "Organization"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Оставьте заявку — разберём вашу ситуацию и подскажем следующий шаг.",
+  "ctaButton": "Оставить заявку",
+  "ctaUrl": "/#contact",
+  "disclaimer": "",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "103e175433df8fefa52f80d5beb8f37f",
+  "previewSecret": "26e279ad5c21a02f",
+  "theme": {
+    "accent": "var(--clr-accent)",
+    "accent-soft": "var(--clr-accent-soft)",
+    "bg": "var(--clr-bg)",
+    "surface": "var(--clr-surface)",
+    "ink": "var(--clr-ink)",
+    "text": "var(--clr-text)",
+    "soft": "var(--clr-text-soft)",
+    "line": "var(--clr-line)"
+  }
+}
